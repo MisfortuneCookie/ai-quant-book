@@ -369,9 +369,9 @@ In multi-agent systems, candlestick patterns and volume analysis can be position
 
 ## Further Reading
 
-- [Lesson 04: The True Role of Technical Indicators](../Lesson-04-The-True-Role-of-Technical-Indicators.md) - MACD, RSI and other indicators explained
+- [Lesson 04: The Real Role of Technical Indicators](../Lesson-04-The-Real-Role-of-Technical-Indicators.md) - MACD, RSI and other indicators explained
 - [Lesson 09: Supervised Learning in Quantitative Trading](../../Part3-Machine-Learning/Lesson-09-Supervised-Learning-in-Quantitative-Trading.md) - How to input features into ML models
-- [Background: Common Feature Engineering Pitfalls](../../Part3-Machine-Learning/Background/Common-Feature-Engineering-Pitfalls.md) - Avoid feature engineering mistakes
+- [Background: Feature Engineering Common Pitfalls](../../Part3-Machine-Learning/Background/Feature-Engineering-Common-Pitfalls.md) - Avoid feature engineering mistakes
 
 ---
 

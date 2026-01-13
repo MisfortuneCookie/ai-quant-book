@@ -820,6 +820,6 @@ def compare_granularity(minute_result: dict,
 
 ## Further Reading
 
-- [Background: Execution Simulator Implementation](../../Part5-Production-and-Practice/Background/Execution-Simulator-Implementation.md) - Detailed execution simulation
+- [Background: Execution Simulator Implementation](../../Part5-Production/Background/Execution-Simulator-Implementation.md) - Detailed execution simulation
 - [Background: Exchanges and Order Book Mechanics](Exchanges-and-Order-Book-Mechanics.md) - Order book fundamentals
-- [Lesson 7: Pitfalls in Backtest Systems](../Lesson-07-Pitfalls-in-Backtest-Systems.md) - Common backtest issues
+- [Lesson 07: Backtest System Pitfalls](../Lesson-07-Backtest-System-Pitfalls.md) - Common backtest issues

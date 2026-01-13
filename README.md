@@ -14,8 +14,8 @@
 
 | Language | Status | Progress | Link |
 |----------|--------|----------|------|
-| 🇨🇳 中文 | ✅ Complete | 22 lessons + 27 background + 4 appendices | [阅读中文版 →](./manuscript/cn/) |
-| 🇺🇸 English | ✅ Complete | 22 lessons + 27 background + 4 appendices | [Read English →](./manuscript/en/) |
+| 🇨🇳 中文 | ✅ Complete | 22 lessons + 30 background + 4 appendices | [阅读中文版 →](./manuscript/cn/) |
+| 🇺🇸 English | ✅ Complete | 22 lessons + 30 background + 4 appendices | [Read English →](./manuscript/en/) |
 
 ---
 
@@ -84,7 +84,7 @@ The book has **5 parts, 22 lessons** | 全书分为 **5 个部分、22 课**：
 | **4** | Multi-Agent 多智能体 | 7 | Architecture, regime detection, LLM, risk control 架构、Regime、LLM、风控 |
 | **5** | Production 生产实战 | 5 | Costs, execution, operations, projects 成本、执行、运维、实战 |
 
-Plus **27 background articles** and **4 appendices** | 另有 **27篇背景知识** 和 **4篇附录**
+Plus **30 background articles** and **4 appendices** | 另有 **30篇背景知识** 和 **4篇附录**
 
 ---
 
@@ -148,7 +148,8 @@ ai-quant-book/
 │   │   ├── Part2-Quant-Fundamentals/
 │   │   ├── Part3-Machine-Learning/
 │   │   ├── Part4-Multi-Agent/
-│   │   └── Part5-Production/
+│   │   ├── Part5-Production/
+│   │   └── Resources-Links/
 └── README.md
 ```
 

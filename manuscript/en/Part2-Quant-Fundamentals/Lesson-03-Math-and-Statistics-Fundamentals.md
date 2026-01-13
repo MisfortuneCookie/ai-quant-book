@@ -569,7 +569,7 @@ An intraday strategy:
 
 - [Background: Alpha and Beta](../Part1-Quick-Start/Background/Alpha-and-Beta.md) - Mathematical foundation of return decomposition
 - [Background: Famous Quant Disasters](../Part1-Quick-Start/Background/Famous-Quant-Disasters.md) - The cost of ignoring fat tails
-- [Background: Statistical Traps in Sharpe Ratio](Background/Statistical-Traps-in-Sharpe-Ratio.md) - Estimation error, multiple testing, and Deflated Sharpe
+- [Background: Statistical Traps of Sharpe Ratio](Background/Statistical-Traps-of-Sharpe-Ratio.md) - Estimation error, multiple testing, and Deflated Sharpe
 
 ---
 

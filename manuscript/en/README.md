@@ -72,7 +72,7 @@ This book is for educational and research purposes only and **does not constitut
 | Lesson 09 | [Supervised Learning in Quantitative Finance](Part3-Machine-Learning/Lesson-09-Supervised-Learning-in-Quantitative-Trading.md) |
 | Lesson 10 | [From Models to Agents](Part3-Machine-Learning/Lesson-10-From-Models-to-Agents.md) |
 
-**Background Knowledge**: [LLM in Quantitative Research](Part3-Machine-Learning/Background/LLM-Research-in-Quantitative-Trading.md) · [Triple Barrier Labeling Method](Part3-Machine-Learning/Background/Triple-Barrier-Labeling-Method.md) · [Time Series Cross-Validation (Purged CV)](Part3-Machine-Learning/Background/Time-Series-Cross-Validation-Purged-CV.md) · [Reinforcement Learning in Trading](Part3-Machine-Learning/Background/Reinforcement-Learning-in-Trading.md) · [Alternative Data (NLP and Satellite)](Part3-Machine-Learning/Background/Alternative-Data-NLP-and-Satellite.md) · [Meta-Labeling Method](Part3-Machine-Learning/Background/Meta-Labeling-Method.md) · [Feature Engineering Pitfalls](Part3-Machine-Learning/Background/Feature-Engineering-Common-Pitfalls.md) · [Limitations of ML in Finance](Part3-Machine-Learning/Background/Limitations-of-ML-in-Finance.md) · [Cutting-Edge ML and RL Methods (2025)](Part3-Machine-Learning/Background/Frontier-ML-and-RL-Methods-2025.md)
+**Background Knowledge**: [LLM in Quantitative Research](Part3-Machine-Learning/Background/LLM-Research-in-Quantitative-Trading.md) · [Triple Barrier Labeling Method](Part3-Machine-Learning/Background/Triple-Barrier-Labeling-Method.md) · [Time Series Cross-Validation (Purged CV)](Part3-Machine-Learning/Background/Time-Series-Cross-Validation-Purged-CV.md) · [Reinforcement Learning in Trading](Part3-Machine-Learning/Background/Reinforcement-Learning-in-Trading.md) · [Alternative Data (NLP and Satellite)](Part3-Machine-Learning/Background/Alternative-Data-NLP-and-Satellite.md) · [Meta-Labeling Method](Part3-Machine-Learning/Background/Meta-Labeling-Method.md) · [Feature Engineering Pitfalls](Part3-Machine-Learning/Background/Feature-Engineering-Common-Pitfalls.md) · [Limitations of ML in Finance](Part3-Machine-Learning/Background/Limitations-of-ML-in-Finance.md) · [Model Architecture Selection Guide](Part3-Machine-Learning/Background/Model-Architecture-Selection-Guide.md) · [Model Drift and Retraining](Part3-Machine-Learning/Background/Model-Drift-and-Retraining.md) · [Cutting-Edge ML and RL Methods (2025)](Part3-Machine-Learning/Background/Frontier-ML-and-RL-Methods-2025.md)
 
 ---
 
@@ -106,7 +106,7 @@ This book is for educational and research purposes only and **does not constitut
 | Lesson 21 | [Project Practice](Part5-Production/Lesson-21-Project-Implementation.md) |
 | Lesson 22 | [Summary and Advanced Directions](Part5-Production/Lesson-22-Summary-and-Advanced-Directions.md) |
 
-**Background Knowledge**: [Execution Simulator Implementation](Part5-Production/Background/Execution-Simulator-Implementation.md) · [Algorithmic Trading Regulations (2024-2025)](Part5-Production/Background/Algorithmic-Trading-Regulations.md)
+**Background Knowledge**: [Execution Simulator Implementation](Part5-Production/Background/Execution-Simulator-Implementation.md) · [Strategy Homogenization and Capacity Bottlenecks](Part5-Production/Background/Strategy-Homogenization-and-Capacity-Bottlenecks.md) · [Algorithmic Trading Regulations (2024-2025)](Part5-Production/Background/Algorithmic-Trading-Regulations.md)
 
 ---
 
@@ -132,9 +132,9 @@ This book is for educational and research purposes only and **does not constitut
 | Item | Count |
 |------|-------|
 | Main Lessons | 22 |
-| Background Knowledge | 27 |
+| Background Knowledge | 30 |
 | Appendices | 4 |
-| **Total** | **53** |
+| **Total** | **56** |
 
 ---
 

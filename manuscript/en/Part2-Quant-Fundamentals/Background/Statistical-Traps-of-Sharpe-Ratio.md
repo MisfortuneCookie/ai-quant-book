@@ -375,7 +375,7 @@ In multi-agent architecture, the statistical issues of Sharpe ratio require spec
 
 ## Further Reading
 
-- [Lesson 3: Mathematics and Statistics Fundamentals](../Lesson-03-Mathematics-and-Statistics-Fundamentals.md) - Statistics basics
-- [Lesson 7: Pitfalls in Backtest Systems](../Lesson-07-Pitfalls-in-Backtest-Systems.md) - Other biases in backtesting
+- [Lesson 03: Math and Statistics Fundamentals](../Lesson-03-Math-and-Statistics-Fundamentals.md) - Statistics basics
+- [Lesson 07: Backtest System Pitfalls](../Lesson-07-Backtest-System-Pitfalls.md) - Other biases in backtesting
 - Bailey, D. H., & Lopez de Prado, M. (2014). *The Deflated Sharpe Ratio*
 - Lo, A. W. (2002). *The Statistics of Sharpe Ratios*
